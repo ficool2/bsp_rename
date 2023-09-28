@@ -1,0 +1,9 @@
+.vs/
+build/
+temp/
+include/
+lib/
+
+*.bsp
+*.vcxproj.filters
+*.vcxproj.user
